@@ -2,7 +2,7 @@
 
 
 
-register_nav_menu();
+register_nav_menus();
 
 register_sidebar();
 
